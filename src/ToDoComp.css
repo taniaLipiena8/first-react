@@ -1,0 +1,65 @@
+.App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .activityList{
+    margin: auto;
+    margin-top: 20px;
+    width: 50%;
+    text-align: left;
+    border: 2px solid #666;
+    padding: 10px;
+    padding-right: 48px;
+  }
+  
+  li{
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    justify-content: space-between;
+  }
+  
+  ul{
+    list-style-type: none;
+    
+  }
+  
+  .act{
+    position: absolute;
+    right: 450px;
+    width: auto;
+    display: inline-block;
+   
+  }
+
+  .activityName{
+    font-weight: bold;
+    font-size: large;
+    
+    color: palevioletred;
+  }
+  
+  .indexNo{
+    font-size: large;
+    margin-left: 15px;
+    text-align: center;
+    padding: 5px;
+    height: 30px;
+    width: 36px;
+    font-weight: bold;
+    color: palevioletred;
+  }
+  
+button.donebutton{
+  margin-right: 20px;
+ 
+}
+
+  
+  
+  
+  
+  
+  
+  
